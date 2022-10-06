@@ -18,8 +18,8 @@
 Cloning this repo will get you a folder containing two separate apps:
 
 <ol>
-  <li>a Rails 7 API with user authentication via Devise and JWT</li>
-  <li>a React 18 frontend boilerplate</li>
+  <li>a Rails7 API with user authentication via Devise and JWT</li>
+  <li>a React v.18 frontend boilerplate</li>
 </ol>
 
 <br/>
