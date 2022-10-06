@@ -1,6 +1,6 @@
 # How to use this repo?
 <ol>
-  <li>Clone me;</li>
+  <li>Clone me if needed;</li>
   <li>Delete config/credentials.yml.enc;</li>
   <li>Open project's folder in Terminal, and run the following commands:</li>
 </ol>
