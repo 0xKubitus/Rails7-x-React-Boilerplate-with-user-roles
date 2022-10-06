@@ -32,4 +32,5 @@ rails server
 ```
 
 Your API should be running on port localhost:3001 ...
-... which means you can now check the second folder, dealing with the frontend part of our future project!
+
+### ... which means you can now check the second folder, dealing with the frontend part of our future project!
